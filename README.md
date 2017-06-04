@@ -83,8 +83,9 @@ extension ListManager {
 ## Blogs/Newsletter
 List of online sources which have mentioned RGListKit, 
 
-- [Natasha's newsletter - issue #133](https://swiftnews.curated.co/#libraries)
+- [Natasha's Swift newsletter - issue #133](https://swiftnews.curated.co/#libraries)
 - [Swift's Weekly - issue #78](http://digest.swiftweekly.com/issues/swift-weekly-issue-78-59042)
+- [Compile Swift newsletter - issue #58](http://mailchi.mp/baadd551f100/the-compileswift-newsletter-issue-1481361)
 
 ## Contributing
 
